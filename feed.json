@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://anniegreens.micro.blog/2024/08/21/todays-featured-photo.html",
+				
+				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/08/21)</p>\n<p>Let&rsquo;s try this again, two days late.</p>\n<p>New digitalis to my garden, blooming in year one!</p>\n<p>August 19, 2024</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's featured photo from the Photos app (2024/08/21)\r\n\r\nLet's try this again, two days late.\r\n\r\nNew digitalis to my garden, blooming in year one!\r\n\r\nAugust 19, 2024\r\n\r\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-6251.jpeg\" width=\"600\" height=\"939\" alt=\"Closeup of the open blooms on a fresh bloom spike of a digitalis plant.\">\r\n",
+				"date_published": "2024-08-21T12:32:53-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/21/todays-featured-photo.html",
+				"tags": ["microblog","timeline","photo","featured photo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/08/20/im-just-a.html",
+				
+				"content_html": "<p>I&rsquo;m just a girl trying to delete a post&hellip;</p>\n",
+				"content_text": "I'm just a girl trying to delete a post...\n",
+				"date_published": "2024-08-20T08:32:37-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/20/im-just-a.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/08/19/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-08-19</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/diving-into-indiewebify-me-microformats-part-ix\">Diving into indiewebify.me & microformats, Part IX</a>\n</link-peek>\n\n2024-08-19\n",
+				"date_published": "2024-08-19T22:43:16-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/19/from-apple-annies.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/08/18/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-08-18</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/bookmarks-1\">Bookmarks #1</a>\n</link-peek>\n\n2024-08-18\n",
+				"date_published": "2024-08-18T18:27:19-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/18/from-apple-annies.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/08/16/theres-this-stigma.html",
+				
+				"content_html": "<blockquote>\n<p>“&hellip;there’s this stigma and discrimination that it only affects people who are lazy or don’t look after their health. But I trained 25 hours a week. My whole world revolved around my body and my health. And that didn’t stop me from being completely debilitated&hellip;</p>\n<p>“This is an illness that is demolishing people’s lives — and then people are going to the doctor and being told it’s in their heads or that the disease isn’t real.”</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "> “...there’s this stigma and discrimination that it only affects people who are lazy or don’t look after their health. But I trained 25 hours a week. My whole world revolved around my body and my health. And that didn’t stop me from being completely debilitated...\n> \n> “This is an illness that is demolishing people’s lives — and then people are going to the doctor and being told it’s in their heads or that the disease isn’t real.”\n\n<div class=\"quoteback-wrap\">\n<blockquote class=\"quoteback\" data-author=\"thetimes.com\" data-avatar=\"https://micro.blog/thetimes.com/avatar.jpg\" cite=\"https://www.thetimes.com/uk/healthcare/article/link-long-covid-me-dzdxtp206\"><p>I was picked for Team GB. Then long Covid dashed my Olympic dream <a href=\"https://www.thetimes.com/uk/healthcare/article/link-long-covid-me-dzdxtp206\">thetimes.com</a></p><footer>thetimes.com <cite><a href=\"https://www.thetimes.com/uk/healthcare/article/link-long-covid-me-dzdxtp206\" class=\"u-in-reply-to\">https://www.thetimes.com/uk/healthcare/article/link-long-covid-me-dzdxtp206</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n</div>\n",
+				"date_published": "2024-08-16T19:24:46-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/16/theres-this-stigma.html",
+				"tags": ["microblog","timeline","bookmark","quote"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/08/16/todays-featured-photo.html",
+				
+				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/08/16)</p>\n<p>Editing some photos yesterday and prepping a set of featured ones, today&rsquo;s photo is from the same day as yesterday&rsquo;s.</p>\n<p>This is from the deck of the MS Westerdam and part of a set I have with these red boxes.</p>\n<p>August 14, 2011</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's featured photo from the Photos app (2024/08/16)\r\n\r\nEditing some photos yesterday and prepping a set of featured ones, today's photo is from the same day as yesterday's.\r\n\r\nThis is from the deck of the MS Westerdam and part of a set I have with these red boxes.\r\n\r\nAugust 14, 2011\r\n\r\n<img class=\"img-flow\" src=\"https://cdn.uploads.micro.blog/100386/2024/img-0424.jpeg\" width=\"600\" height=\"800\" alt=\"On the covered deck of a cruise ship, white painted metal arched supports and openings in the side of the ship reveal sun shining onto the wood deck creating large sun spots, along with punches of color from a warning strip with yellow and black, the warm wood of two cabinets and a bench on the inner wall, and a red metal box attached to the outer wall.\">\n",
+				"date_published": "2024-08-16T09:28:44-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/16/todays-featured-photo.html",
+				"tags": ["microblog","timeline","photo","featured photo"]
+			},
+			{
 				"id": "http://anniegreens.micro.blog/2024/08/15/not-so-fun.html",
 				"title": "Not so fun with smoke detectors.",
 				"content_html": "<p>I just went around changing six smoke detector batteries and backup batteries because one of them randomly went off and I couldn&rsquo;t tell which one it was. I&rsquo;m in the habit of changing them all at the same time any time I need to replace the batteries in one so that I always know how old they all are.</p>\n<p>The worst part about this task is that you&rsquo;re up on a step stool or ladder so you can reach the dang things, then you need a hand to push the test button, so you only have one free hand to plug one ear, and then you end up deaf and ringing in the other ear for the next hour or two.</p>\n<p>Now marking on the calendar this date so I in six months I can probably do this all over again. Four of them are the same and are not hard-wired, but I had to replace them all a couple years ago because they all expired, which is still a weird thing to me. I understand there are compounds that age and break down inside of them. This also means you can&rsquo;t just toss them in the trash. The two upstairs are hard-wired so they only have a back-up battery in them. Luckily they all have the same little access panel that slides over to replace the batteries without having to take them off their mounts.</p>\n<p>I&rsquo;d really love to be able to use the Eve Home smoke detectors because then I&rsquo;d have information about them in my Home app. I&rsquo;d be able to see the status of the batteries and probably when they were last changed. I assume I would also get a notice on my phone or other device letting me know when it is time to change the batteries or which one is going off in the case one goes off. But for some reason they are not available in the US, only Europe.</p>",
@@ -28,7 +82,7 @@
 				"id": "http://anniegreens.micro.blog/2024/08/15/todays-featured-photo.html",
 				
 				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/08/15)</p>\n<p>I should have posted this yesterday for On this Day, but I missed it.</p>\n<p>Morning over the Pacific. Day one of a cruise to Alaska, off the coast of North America, quite early @ 5:48am.</p>\n<p>August 14, 2011</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's featured photo from the Photos app (2024/08/15)\r\n\r\nI should have posted this yesterday for On this Day, but I missed it.\r\n\r\nMorning over the Pacific. Day one of a cruise to Alaska, off the coast of North America, quite early @ 5:48am.\r\n\r\nAugust 14, 2011\r\n\r\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-0418.jpeg\" width=\"600\" height=\"450\" alt=\"A large light-filled cloudy sky with accents of sun of puffy clouds above a horizon of darker grey clouds, all above a sliver of steel blue ocean stretching to the horizon.\">\n",
+				"content_text": "Today's featured photo from the Photos app (2024/08/15)\r\n\r\nI should have posted this yesterday for On this Day, but I missed it.\r\n\r\nMorning over the Pacific. Day one of a cruise to Alaska, off the coast of North America, quite early @ 5:48am.\r\n\r\nAugust 14, 2011\r\n\r\n<img class=\"img-flow\" src=\"https://cdn.uploads.micro.blog/100386/2024/img-0418.jpeg\" width=\"600\" height=\"450\" alt=\"A large light-filled cloudy sky with accents of sun of puffy clouds above a horizon of darker grey clouds, all above a sliver of steel blue ocean stretching to the horizon.\">\n",
 				"date_published": "2024-08-15T09:28:00-07:00",
 				"url": "https://micro.anniegreens.lol/2024/08/15/todays-featured-photo.html",
 				"tags": ["microblog","timeline","photo","featured photo"]
@@ -45,8 +99,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/08/13/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Weekly links, or as required.<!-- raw HTML omitted --></p>\n<p>2024-08-13</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/weekly-links-or-as-required\">Weekly links, or as required.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/08/weekly-links-or-as-required\">Weekly links, or as required.</a>\n\n2024-08-13\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-08-13</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/weekly-links-or-as-required\">Weekly links, or as required.</a>\n</link-peek>\n\n2024-08-13\n",
 				"date_published": "2024-08-13T20:08:22-07:00",
 				"url": "https://micro.anniegreens.lol/2024/08/13/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -108,8 +162,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/08/07/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Creating a masthead with title pattern.<!-- raw HTML omitted --></p>\n<p>2024-08-02</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/creating-a-masthead-with-title-pattern\">Creating a masthead with title pattern.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/08/creating-a-masthead-with-title-pattern\">Creating a masthead with title pattern.</a>\n\n2024-08-02\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-08-02</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/creating-a-masthead-with-title-pattern\">Creating a masthead with title pattern.</a>\n</link-peek>\n\n2024-08-02\n",
 				"date_published": "2024-08-07T12:56:22-07:00",
 				"url": "https://micro.anniegreens.lol/2024/08/07/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -136,7 +190,7 @@
 				"id": "http://anniegreens.micro.blog/2024/08/05/todays-featured-photo.html",
 				
 				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/08/05)</p>\n<p><a href=\"https://weblog.anniegreens.lol/2023/08/creamy-baked-potatoes\">Creamy Baked Potatoes</a></p>\n<p>August 4, 2024</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's featured photo from the Photos app (2024/08/05)\n\n[Creamy Baked Potatoes](https://weblog.anniegreens.lol/2023/08/creamy-baked-potatoes)\n\nAugust 4, 2024\n\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-6202.jpeg\" width=\"600\" height=\"450\" alt=\"A casserole dish full of slicked baked Yukon Gold potatoes with onions and mushrooms, and topped with cheddar cheese, in a creamy sauce.\">\n",
+				"content_text": "Today's featured photo from the Photos app (2024/08/05)\n\n[Creamy Baked Potatoes](https://weblog.anniegreens.lol/2023/08/creamy-baked-potatoes)\n\nAugust 4, 2024\n\n<img class=\"img-flow\" src=\"https://cdn.uploads.micro.blog/100386/2024/img-6202.jpeg\" width=\"600\" height=\"450\" alt=\"A casserole dish full of slicked baked Yukon Gold potatoes with onions and mushrooms, and topped with cheddar cheese, in a creamy sauce.\">\n",
 				"date_published": "2024-08-05T16:46:35-07:00",
 				"url": "https://micro.anniegreens.lol/2024/08/05/todays-featured-photo.html",
 				"tags": ["microblog","timeline","photo","featured photo"]
@@ -171,8 +225,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/08/02/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->People and Blogs: Interview Answers<!-- raw HTML omitted --></p>\n<p>2024-08-02</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/people-and-blogs-interview-answers\">People and Blogs: Interview Answers</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/08/people-and-blogs-interview-answers\">People and Blogs: Interview Answers</a>\n\n2024-08-02\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-08-02</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/people-and-blogs-interview-answers\">People and Blogs: Interview Answers</a>\n</link-peek>\n\n2024-08-02\n",
 				"date_published": "2024-08-02T17:58:17-07:00",
 				"url": "https://micro.anniegreens.lol/2024/08/02/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -216,8 +270,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/07/29/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Blogroll Spin #8<!-- raw HTML omitted --></p>\n<p>2024-07-29</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/07/blogroll-spin-8\">Blogroll Spin #8</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/07/blogroll-spin-8\">Blogroll Spin #8</a>\n\n2024-07-29\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-07-29</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/07/blogroll-spin-8\">Blogroll Spin #8</a>\n</link-peek>\n\n2024-07-29\n",
 				"date_published": "2024-07-29T12:38:34-07:00",
 				"url": "https://micro.anniegreens.lol/2024/07/29/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -333,8 +387,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/07/20/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Your blog is a vulnerability.<!-- raw HTML omitted --></p>\n<p>2024-07-20</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/07/your-blog-is-a-vulnerability\">Your blog is a vulnerability.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/07/your-blog-is-a-vulnerability\">Your blog is a vulnerability.</a>\n\n2024-07-20\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-07-20</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/07/your-blog-is-a-vulnerability\">Your blog is a vulnerability.</a>\n</link-peek>\n\n2024-07-20\n",
 				"date_published": "2024-07-20T08:38:11-07:00",
 				"url": "https://micro.anniegreens.lol/2024/07/20/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -378,8 +432,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/07/17/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->To omg.lol: an uncomfortable home<!-- raw HTML omitted --></p>\n<p>2024-07-17</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/07/to-omg-lol-an-uncomfortable-home\">To omg.lol: an uncomfortable home</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/07/to-omg-lol-an-uncomfortable-home\">To omg.lol: an uncomfortable home</a>\n\n2024-07-17\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-07-17</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/07/to-omg-lol-an-uncomfortable-home\">To omg.lol: an uncomfortable home</a>\n</link-peek>\n\n2024-07-17\n",
 				"date_published": "2024-07-17T18:36:25-07:00",
 				"url": "https://micro.anniegreens.lol/2024/07/17/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -684,8 +738,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/06/25/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Blogroll Spin #7<!-- raw HTML omitted --></p>\n<p>2024-06-25</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/06/blogroll-spin-7\">Blogroll Spin #7</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/06/blogroll-spin-7\">Blogroll Spin #7</a>\n\n2024-06-25\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-06-25</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/06/blogroll-spin-7\">Blogroll Spin #7</a>\n</link-peek>\n\n2024-06-25\n",
 				"date_published": "2024-06-25T19:27:20-07:00",
 				"url": "https://micro.anniegreens.lol/2024/06/25/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -819,8 +873,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/06/18/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->A Contact page with a customized Letterbird form.<!-- raw HTML omitted --></p>\n<p>2024-06-18</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/06/a-contact-page-with-a-customized-letterbird-form\">A Contact page with a customized Letterbird form.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/06/a-contact-page-with-a-customized-letterbird-form\">A Contact page with a customized Letterbird form.</a>\n\n2024-06-18\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-06-18</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/06/a-contact-page-with-a-customized-letterbird-form\">A Contact page with a customized Letterbird form.</a>\n</link-peek>\n\n2024-06-18\n",
 				"date_published": "2024-06-18T20:04:24-07:00",
 				"url": "https://micro.anniegreens.lol/2024/06/18/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1044,8 +1098,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/06/04/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Junited 2024<!-- raw HTML omitted --></p>\n<p>2024-06-04</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/06/junited-2024\">Junited 2024</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/06/junited-2024\">Junited 2024</a>\n\n2024-06-04\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-06-04</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/06/junited-2024\">Junited 2024</a>\n</link-peek>\n\n2024-06-04\n",
 				"date_published": "2024-06-04T14:36:27-07:00",
 				"url": "https://micro.anniegreens.lol/2024/06/04/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1062,8 +1116,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/06/03/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->WeblogPoMo 2024 Retrospective: Communities of Content<!-- raw HTML omitted --></p>\n<p>2024-06-03</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/06/weblogpomo-2024-retrospective-communities-of-content\">WeblogPoMo 2024 Retrospective: Communities of Content</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/06/weblogpomo-2024-retrospective-communities-of-content\">WeblogPoMo 2024 Retrospective: Communities of Content</a>\n\n2024-06-03\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-06-03</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/06/weblogpomo-2024-retrospective-communities-of-content\">WeblogPoMo 2024 Retrospective: Communities of Content</a>\n</link-peek>\n\n2024-06-03\n",
 				"date_published": "2024-06-03T19:11:14-07:00",
 				"url": "https://micro.anniegreens.lol/2024/06/03/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1179,8 +1233,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/31/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Wrapping WeblogPoMo 2024<!-- raw HTML omitted --></p>\n<p>2024-05-31</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/wrapping-weblogpomo-2024\">Wrapping WeblogPoMo 2024</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/wrapping-weblogpomo-2024\">Wrapping WeblogPoMo 2024</a>\n\n2024-05-31\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-31</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/wrapping-weblogpomo-2024\">Wrapping WeblogPoMo 2024</a>\n</link-peek>\n\n2024-05-31\n",
 				"date_published": "2024-05-31T08:51:48-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/31/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1188,8 +1242,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/30/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Blogroll Spin #6<!-- raw HTML omitted --></p>\n<p>2024-05-30</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/blogroll-spin-6\">Blogroll Spin #6</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/blogroll-spin-6\">Blogroll Spin #6</a>\n\n2024-05-30\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-30</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/blogroll-spin-6\">Blogroll Spin #6</a>\n</link-peek>\n\n2024-05-30\n",
 				"date_published": "2024-05-30T15:11:50-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/30/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1215,8 +1269,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/29/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Brag for yourself.<!-- raw HTML omitted --></p>\n<p>2024-05-29</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/brag-for-yourself\">Brag for yourself.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/brag-for-yourself\">Brag for yourself.</a>\n\n2024-05-29\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-29</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/brag-for-yourself\">Brag for yourself.</a>\n</link-peek>\n\n2024-05-29\n",
 				"date_published": "2024-05-29T14:06:13-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/29/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1233,8 +1287,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/28/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->A Roadmap and Changelog<!-- raw HTML omitted --></p>\n<p>2024-05-28</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/a-roadmap-and-changelog\">A Roadmap and Changelog</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/a-roadmap-and-changelog\">A Roadmap and Changelog</a>\n\n2024-05-28\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-28</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/a-roadmap-and-changelog\">A Roadmap and Changelog</a>\n</link-peek>\n\n2024-05-28\n",
 				"date_published": "2024-05-28T15:21:33-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/28/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1260,8 +1314,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/27/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->A Slashes page for my slash pages.<!-- raw HTML omitted --></p>\n<p>2024-05-27</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/a-slashes-page-for-my-slash-pages\">A Slashes page for my slash pages.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/a-slashes-page-for-my-slash-pages\">A Slashes page for my slash pages.</a>\n\n2024-05-27\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-27</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/a-slashes-page-for-my-slash-pages\">A Slashes page for my slash pages.</a>\n</link-peek>\n\n2024-05-27\n",
 				"date_published": "2024-05-27T15:02:33-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/27/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1269,8 +1323,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/26/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Favorites, Part III<!-- raw HTML omitted --></p>\n<p>2024-05-26</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/favorites-part-iii\">Favorites, Part III</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/favorites-part-iii\">Favorites, Part III</a>\n\n2024-05-26\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-26</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/favorites-part-iii\">Favorites, Part III</a>\n</link-peek>\n\n2024-05-26\n",
 				"date_published": "2024-05-26T13:31:48-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/26/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1296,8 +1350,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/25/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->This is not the post you are looking for.<!-- raw HTML omitted --></p>\n<p>2024-05-25</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/this-is-not-the-post-you-are-looking-for\">This is not the post you are looking for.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/this-is-not-the-post-you-are-looking-for\">This is not the post you are looking for.</a>\n\n2024-05-25\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-25</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/this-is-not-the-post-you-are-looking-for\">This is not the post you are looking for.</a>\n</link-peek>\n\n2024-05-25\n",
 				"date_published": "2024-05-25T19:51:05-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/25/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1341,8 +1395,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/24/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Companies are made of and for people.<!-- raw HTML omitted --></p>\n<p>2024-05-24</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/companies-are-made-of-and-for-people\">Companies are made of and for people.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/companies-are-made-of-and-for-people\">Companies are made of and for people.</a>\n\n2024-05-24\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-24</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/companies-are-made-of-and-for-people\">Companies are made of and for people.</a>\n</link-peek>\n\n2024-05-24\n",
 				"date_published": "2024-05-24T14:13:06-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/24/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1404,8 +1458,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/21/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->It&rsquo;s my blog and I&rsquo;ll cry if I want to.<!-- raw HTML omitted --></p>\n<p>2024-05-21</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/it-is-my-blog-and-i-will-cry-if-i-want-to\">It's my blog and I'll cry if I want to.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/it-is-my-blog-and-i-will-cry-if-i-want-to\">It's my blog and I'll cry if I want to.</a>\n\n2024-05-21\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-21</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/it-is-my-blog-and-i-will-cry-if-i-want-to\">It's my blog and I'll cry if I want to.</a>\n</link-peek>\n\n2024-05-21\n",
 				"date_published": "2024-05-21T14:40:18-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/21/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1431,8 +1485,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/20/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Working for a Living When Your Living isn&rsquo;t Working, Part IV<!-- raw HTML omitted --></p>\n<p>2024-05-20</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/working-for-a-living-when-your-living-isnt-working-part-iv\">Working for a Living When Your Living isn't Working, Part IV</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/working-for-a-living-when-your-living-isnt-working-part-iv\">Working for a Living When Your Living isn't Working, Part IV</a>\n\n2024-05-20\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-20</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/working-for-a-living-when-your-living-isnt-working-part-iv\">Working for a Living When Your Living isn't Working, Part IV</a>\n</link-peek>\n\n2024-05-20\n",
 				"date_published": "2024-05-20T19:31:22-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/20/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1458,8 +1512,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/18/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->A Community of Concerns<!-- raw HTML omitted --></p>\n<p>2024-05-18</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/a-community-of-concerns\">A Community of Concerns</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/a-community-of-concerns\">A Community of Concerns</a>\n\n2024-05-18\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-18</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/a-community-of-concerns\">A Community of Concerns</a>\n</link-peek>\n\n2024-05-18\n",
 				"date_published": "2024-05-18T21:55:32-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/18/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1503,8 +1557,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/15/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->AI for dummies.<!-- raw HTML omitted --></p>\n<p>2024-05-15</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/ai-for-dummies\">AI for dummies.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/ai-for-dummies\">AI for dummies.</a>\n\n2024-05-15\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-15</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/ai-for-dummies\">AI for dummies.</a>\n</link-peek>\n\n2024-05-15\n",
 				"date_published": "2024-05-15T19:24:25-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/15/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1710,8 +1764,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/05/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->An education, if you can pay for it.<!-- raw HTML omitted --></p>\n<p>2024-05-05</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/an-education-if-you-can-pay-for-it\">An education, if you can pay for it.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/an-education-if-you-can-pay-for-it\">An education, if you can pay for it.</a>\n\n2024-05-05\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-05</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/an-education-if-you-can-pay-for-it\">An education, if you can pay for it.</a>\n</link-peek>\n\n2024-05-05\n",
 				"date_published": "2024-05-05T06:04:29-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/05/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1728,8 +1782,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/04/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Guilt and Loathing in Portland<!-- raw HTML omitted --></p>\n<p>2024-05-04</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/guilt-and-loathing-in-portland\">Guilt and Loathing in Portland</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/guilt-and-loathing-in-portland\">Guilt and Loathing in Portland</a>\n\n2024-05-04\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-04</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/guilt-and-loathing-in-portland\">Guilt and Loathing in Portland</a>\n</link-peek>\n\n2024-05-04\n",
 				"date_published": "2024-05-04T09:48:14-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/04/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1755,8 +1809,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/02/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->What are Tiny Pages?<!-- raw HTML omitted --></p>\n<p>2024-05-02</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/what-are-tiny-pages\">What are Tiny Pages?</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/what-are-tiny-pages\">What are Tiny Pages?</a>\n\n2024-05-02\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-02</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/what-are-tiny-pages\">What are Tiny Pages?</a>\n</link-peek>\n\n2024-05-02\n",
 				"date_published": "2024-05-02T06:33:31-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/02/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -1782,8 +1836,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/05/01/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Tiny pages and not-so-tiny pages.<!-- raw HTML omitted --></p>\n<p>2024-05-01</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/tiny-pages-and-not-so-tiny-pages\">Tiny pages and not-so-tiny pages.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/05/tiny-pages-and-not-so-tiny-pages\">Tiny pages and not-so-tiny pages.</a>\n\n2024-05-01\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-05-01</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/05/tiny-pages-and-not-so-tiny-pages\">Tiny pages and not-so-tiny pages.</a>\n</link-peek>\n\n2024-05-01\n",
 				"date_published": "2024-05-01T11:33:24-07:00",
 				"url": "https://micro.anniegreens.lol/2024/05/01/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -2196,8 +2250,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/04/13/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Adding link previews to echoes on my microblog.<!-- raw HTML omitted --></p>\n<p>2024-04-13</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/04/adding-link-previews-to-echoes-on-my-microblog\">Adding link previews to echoes on my microblog.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/04/adding-link-previews-to-echoes-on-my-microblog\">Adding link previews to echoes on my microblog.</a>\n\n2024-04-13\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-04-13</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/04/adding-link-previews-to-echoes-on-my-microblog\">Adding link previews to echoes on my microblog.</a>\n</link-peek>\n\n2024-04-13\n",
 				"date_published": "2024-04-13T19:30:10-07:00",
 				"url": "https://micro.anniegreens.lol/2024/04/13/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -2268,8 +2322,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/04/11/from-apple-annies.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Blogroll Spin #4<!-- raw HTML omitted --></p>\n<p>2024-04-11</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/04/blogroll-spin-4\">Blogroll Spin #4</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/04/blogroll-spin-4\">Blogroll Spin #4</a>\n\n2024-04-11\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-04-11</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/04/blogroll-spin-4\">Blogroll Spin #4</a>\n</link-peek>\n\n2024-04-11\n",
 				"date_published": "2024-04-11T08:35:15-07:00",
 				"url": "https://micro.anniegreens.lol/2024/04/11/from-apple-annies.html",
 				"tags": ["microblog","timeline"]
@@ -2277,8 +2331,8 @@
 			{
 				"id": "http://anniegreens.micro.blog/2024/04/10/my-grandmothers-recipe.html",
 				
-				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->My grandmother&rsquo;s recipe box.<!-- raw HTML omitted --></p>\n<p>2024-04-10</p>\n",
-				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/04/my-grandmothers-recipe-box\">My grandmother's recipe box.</a>\n</link-peek>\n\n<a href=\"https://weblog.anniegreens.lol/2024/04/my-grandmothers-recipe-box\">My grandmother's recipe box.</a>\n\n 2024-04-10\n",
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-04-10</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/04/my-grandmothers-recipe-box\">My grandmother's recipe box.</a>\n</link-peek>\n\n 2024-04-10\n",
 				"date_published": "2024-04-10T08:13:11-07:00",
 				"url": "https://micro.anniegreens.lol/2024/04/10/my-grandmothers-recipe.html",
 				"tags": ["microblog","timeline"]
