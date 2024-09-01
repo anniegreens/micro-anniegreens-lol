@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://anniegreens.micro.blog/2024/09/01/todays-featured-photo.html",
+				
+				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/09/01)</p>\n<p>Under a sickly smoke-filled sky, from the Bandon waterfront on the Coquille River looking west towards the Pacific Ocean with the Coquille River Lighthouse in the distance.</p>\n<p>September 5, 2017</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's featured photo from the Photos app (2024/09/01)\r\n\r\nUnder a sickly smoke-filled sky, from the Bandon waterfront on the Coquille River looking west towards the Pacific Ocean with the Coquille River Lighthouse in the distance.\r\n\r\nSeptember 5, 2017\r\n\r\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-4309.jpeg\" width=\"600\" height=\"337\" alt=\"An oddly colored view of a river and waterfront with a lighthouse in the far distance.\">\r\n",
+				"date_published": "2024-09-01T09:58:37-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/01/todays-featured-photo.html",
+				"tags": ["microblog","timeline","photo","featured photo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/08/30/todays-featured-photo.html",
+				
+				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/08/30)</p>\n<p>In the garden: sedum &lsquo;Plum Dazzled&rsquo; with a single bloom stalk of penstemon crossing over with water drops on the blooms.</p>\n<p>August 28, 2024</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's featured photo from the Photos app (2024/08/30)\r\n\r\nIn the garden: sedum 'Plum Dazzled' with a single bloom stalk of penstemon crossing over with water drops on the blooms.\r\n\r\nAugust 28, 2024\r\n\r\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-6288.jpeg\" width=\"600\" height=\"337\" alt=\"In the garden, sedum 'Plum Dazzled' with a single bloom stalk of penstemon crossing over with water drops on the blooms.\">\r\n",
+				"date_published": "2024-08-30T09:28:00-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/30/todays-featured-photo.html",
+				"tags": ["microblog","timeline","photo","featured photo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/08/28/viral-infections-are.html",
+				
+				"content_html": "<p>Viral infections are not beneficial.</p>\n<blockquote>\n<p>Four main categories of pathogens that humans deal with are viruses, bacteria, fungi, and parasites. The evidence for pathogens that may be beneficial to the immune system is almost entirely for parasitic worms and friendly (commensal) bacteria. In contrast, many viruses can even trigger the onset of autoimmune diseases or allergies.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Viral infections are not beneficial.\r\n\r\n> Four main categories of pathogens that humans deal with are viruses, bacteria, fungi, and parasites. The evidence for pathogens that may be beneficial to the immune system is almost entirely for parasitic worms and friendly (commensal) bacteria. In contrast, many viruses can even trigger the onset of autoimmune diseases or allergies.\r\n\r\n<div class=\"quoteback-wrap\">\r\n<blockquote class=\"quoteback\" data-author=\"Rachel Thomas, PhD - an AI researcher going back to school for immunology\" data-avatar=\"https://micro.blog/rachel.fast.ai/avatar.jpg\" cite=\"https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/\"><p>Rachel Thomas, PhD - Your Immune System is Not a Muscle <a href=\"https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/\">rachel.fast.ai</a></p><footer>Rachel Thomas, PhD - an AI researcher going back to school for immunology <cite><a href=\"https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/\" class=\"u-in-reply-to\">https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\r\n</div>\n",
+				"date_published": "2024-08-28T11:28:09-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/28/viral-infections-are.html",
+				"tags": ["microblog","timeline","bookmark","quote"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/08/27/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-08-27</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/08/pets\">Pets</a>\n</link-peek>\n\n2024-08-27\n",
+				"date_published": "2024-08-27T19:00:17-07:00",
+				"url": "https://micro.anniegreens.lol/2024/08/27/from-apple-annies.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
 				"id": "http://anniegreens.micro.blog/2024/08/26/todays-featured-photo.html",
 				
 				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/08/26)</p>\n<p>First New England Aster bloom of the season. I think this is Purple Dome.</p>\n<p>August 26, 2024</p>\n<!-- raw HTML omitted -->\n",
