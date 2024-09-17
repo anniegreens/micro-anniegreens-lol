@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://anniegreens.micro.blog/2024/09/17/i-still-havent.html",
+				
+				"content_html": "<p>I still haven&rsquo;t done anything with blogsand.coffee and <a href=\"https://www.nicchan.me/\">Nic&rsquo;s new site design</a> makes me want to turn it into a blog/site review thing, where I sit down with someone&rsquo;s blog/site and write a review while drinking coffee. It could be really interesting to dig into the CSS and talk about it.</p>\n",
+				"content_text": "I still haven't done anything with blogsand.coffee and [Nic's new site design](https://www.nicchan.me/) makes me want to turn it into a blog/site review thing, where I sit down with someone's blog/site and write a review while drinking coffee. It could be really interesting to dig into the CSS and talk about it.\n",
+				"date_published": "2024-09-17T09:01:33-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/17/i-still-havent.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/16/todays-featured-photo.html",
+				
+				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/09/16)</p>\n<p>Finally some decent color on the New England aster &lsquo;Purple Dome&rsquo;.</p>\n<p>September 16, 2024</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's featured photo from the Photos app (2024/09/16)\r\n\r\nFinally some decent color on the New England aster 'Purple Dome'.\r\n\r\nSeptember 16, 2024\r\n\r\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-6344.jpeg\" width=\"600\" height=\"600\" alt=\"Top down view of a New England Aster called Purple Dome with just as many open blooms as buds.\">\r\n",
+				"date_published": "2024-09-16T16:02:23-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/16/todays-featured-photo.html",
+				"tags": ["microblog","timeline","photo","featured photo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/16/while-not-exactly.html",
+				
+				"content_html": "<p>While not exactly the same plot, I see a lot of similarities between Agatha Christie&rsquo;s <em>And Then There Were None</em> (<em>Ten Little Indians</em>) and <em>Clue/Cluedo</em> the board game (and subsequent film).</p>\n",
+				"content_text": "While not exactly the same plot, I see a lot of similarities between Agatha Christie's *And Then There Were None* (*Ten Little Indians*) and *Clue/Cluedo* the board game (and subsequent film).\n",
+				"date_published": "2024-09-16T15:59:56-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/16/while-not-exactly.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/15/new-microblog-created.html",
+				
+				"content_html": "<p>New microblog created, went with &ldquo;wikigarden&rdquo; and I&rsquo;ll likely use the subdomain <code>wiki.anniegreens.lol</code>. This will be my new digital garden and I will be structuring it entirely different than this microblog. I sort of want to use the same &ldquo;theme&rdquo; so now I will probably be moving assets to my CDN.</p>\n",
+				"content_text": "New microblog created, went with \"wikigarden\" and I'll likely use the subdomain `wiki.anniegreens.lol`. This will be my new digital garden and I will be structuring it entirely different than this microblog. I sort of want to use the same \"theme\" so now I will probably be moving assets to my CDN.\n",
+				"date_published": "2024-09-15T20:57:03-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/15/new-microblog-created.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/15/if-i-create.html",
+				
+				"content_html": "<p>If I create a new blog, but later decide I don&rsquo;t like the name and delete it, that will no longer count towards my 5 allowed blogs as a premium subscriber, right? This question comes from naming things being hard. Now that I think about it, I haven&rsquo;t even looked into what it takes to delete a blog.</p>\n",
+				"content_text": "If I create a new blog, but later decide I don't like the name and delete it, that will no longer count towards my 5 allowed blogs as a premium subscriber, right? This question comes from naming things being hard. Now that I think about it, I haven't even looked into what it takes to delete a blog.\n",
+				"date_published": "2024-09-15T16:04:36-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/15/if-i-create.html",
+				"tags": ["microblog","timeline","question"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/15/todays-featured-photo.html",
+				
+				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/09/15)</p>\n<p>Mount Saint Helens with fresh snow from Spirit Lake Highway on a rather nice January day.</p>\n<p>January 14, 2018</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's featured photo from the Photos app (2024/09/15)\r\n\r\nMount Saint Helens with fresh snow from Spirit Lake Highway on a rather nice January day.\r\n\r\nJanuary 14, 2018\r\n\r\n<img class=\"img-flow\" src=\"https://cdn.uploads.micro.blog/100386/2024/img-4674.jpeg\" width=\"600\" height=\"600\" alt=\"A volcano with large crater only slightly visible covered in fresh snow under a mostly blue sky with wispy white clouds.\">\r\n",
+				"date_published": "2024-09-15T16:00:31-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/15/todays-featured-photo.html",
+				"tags": ["microblog","timeline","photo","featured photo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/13/i-am-in.html",
+				"title": "I am in the brainstorming stage of a digital garden.",
+				"content_html": "<p>This brainstorming started months ago in a post on weblog called <a href=\"https://weblog.anniegreens.lol/wips\">Works in Progress</a>. I then expanded even further on it in <a href=\"https://100daysof.blog/2024/09/13/sometimes-ideas-overwhelm.html\">today&rsquo;s 100 Days of Blog post</a>. Not sure entirely where it will land, but I think it will be a microblog.</p>\n<p>I&rsquo;m toying with the name.</p>\n<ul>\n<li>I like &ldquo;garden&rdquo; but I&rsquo;m worried for myself that will compete with my actual gardening and some day want to resume my gardening newsletter.</li>\n<li>I though maybe &ldquo;notes&rdquo; and a lot of other people use the term, but I&rsquo;m not sure that evokes the digital garden I&rsquo;m hoping for.</li>\n<li>Finally, I just came across someone using &ldquo;wiki&rdquo; which has an interesting connotation to it. We know what wikis are. We know they are evolving and expect entries will be edited.</li>\n</ul>\n<p>Do any of these work for me? If you have a digital garden or something you consider close, what do you call it? This also goes for what you called it on your domain as well, whether a sub-domain or sub-folder.</p>\n<hr>\n<p>POSSE copies:</p>\n<!-- raw HTML omitted -->",
+				"content_text": "This brainstorming started months ago in a post on weblog called [Works in Progress](https://weblog.anniegreens.lol/wips). I then expanded even further on it in [today's 100 Days of Blog post](https://100daysof.blog/2024/09/13/sometimes-ideas-overwhelm.html). Not sure entirely where it will land, but I think it will be a microblog.\n\n<!--more-->\n\nI'm toying with the name.\n\n- I like \"garden\" but I'm worried for myself that will compete with my actual gardening and some day want to resume my gardening newsletter.\n- I though maybe \"notes\" and a lot of other people use the term, but I'm not sure that evokes the digital garden I'm hoping for.\n- Finally, I just came across someone using \"wiki\" which has an interesting connotation to it. We know what wikis are. We know they are evolving and expect entries will be edited.\n\nDo any of these work for me? If you have a digital garden or something you consider close, what do you call it? This also goes for what you called it on your domain as well, whether a sub-domain or sub-folder.\n\n---\n\nPOSSE copies:\n\n<ul>\n<li style=\"margin-top: 0; margin-bottom: 0;\"><a class=\"u-syndication\" href=\"https://social.lol/@anniegreens/113132904535427640\" rel=\"syndication\">Shared on social.lol</a></li>\n</ul>\n",
+				"date_published": "2024-09-13T16:43:54-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/13/i-am-in.html",
+				"tags": ["social lol","microblog","timeline","question"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/12/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-09-12</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/09/bookmarks-blitz-day-4\">Bookmarks Blitz! (Day 4)</a>\n</link-peek>\n\n2024-09-12\n",
+				"date_published": "2024-09-12T15:02:32-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/12/from-apple-annies.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/12/todays-featured-photo.html",
+				
+				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/09/12)</p>\n<p>The dark purple leaved sedum is finally at its peak now. It was covered in honeybees, which I tried to capture, only got two, and one was on the move and is out of focus.</p>\n<p>September 12, 2024</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's featured photo from the Photos app (2024/09/12)\r\n\r\nThe dark purple leaved sedum is finally at its peak now. It was covered in honeybees, which I tried to capture, only got two, and one was on the move and is out of focus.\r\n\r\nSeptember 12, 2024\r\n\r\n<img class=\"img-flow\" src=\"https://cdn.uploads.micro.blog/100386/2024/img-6334.jpeg\" width=\"600\" height=\"800\" alt=\"A dark purple leaved sedum in bloom with bright pink star shaped blooms and still plenty of little clusters of buds. Two honeybees are partaking of the goods.\">\r\n",
+				"date_published": "2024-09-12T13:57:04-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/12/todays-featured-photo.html",
+				"tags": ["microblog","timeline","photo","featured photo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/09/11/tomorrows-days-of.html",
+				
+				"content_html": "<p>Tomorrow&rsquo;s 100 Days of Blog post will be 75! I&rsquo;m 3/4 of the way done with this thing.</p>\n",
+				"content_text": "Tomorrow's 100 Days of Blog post will be 75! I'm 3/4 of the way done with this thing.\n",
+				"date_published": "2024-09-11T21:14:10-07:00",
+				"url": "https://micro.anniegreens.lol/2024/09/11/tomorrows-days-of.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
 				"id": "http://anniegreens.micro.blog/2024/09/10/from-apple-annies.html",
 				
 				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-09-10</p>\n",
@@ -28,7 +118,7 @@
 				"id": "http://anniegreens.micro.blog/2024/09/10/todays-featured-photo.html",
 				
 				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/09/10)</p>\n<p>The eastern end of Spirit Lake with the <a href=\"https://earthobservatory.nasa.gov/images/149025/spirit-lake\">floating logs</a>.</p>\n<p>August 1, 2016</p>\n<!-- raw HTML omitted -->\n<hr>\n<p>POSSE copies:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's featured photo from the Photos app (2024/09/10)\n\nThe eastern end of Spirit Lake with the [floating logs](https://earthobservatory.nasa.gov/images/149025/spirit-lake).\n\nAugust 1, 2016\n\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-0878.jpeg\" width=\"600\" height=\"337\" alt=\"Scoured hills with greenery but hardly any trees rise around part of a blue lake that is partially covered with a skin of aged silver floating logs.\">\n\n---\n\nPOSSE copies:\n\n<ul>\n<li style=\"margin-top: 0; margin-bottom: 0;\"><a class=\"u-syndication\" href=\"https://mstdn.social/@anniegreens/113114058315685659\" rel=\"syndication\">Shared on mstdn.social</a></li>\n</ul>\n",
+				"content_text": "Today's featured photo from the Photos app (2024/09/10)\n\nThe eastern end of Spirit Lake with the [floating logs](https://earthobservatory.nasa.gov/images/149025/spirit-lake).\n\nAugust 1, 2016\n\n<img class=\"img-flow\" src=\"https://cdn.uploads.micro.blog/100386/2024/img-0878.jpeg\" width=\"600\" height=\"337\" alt=\"Scoured hills with greenery but hardly any trees rise around part of a blue lake that is partially covered with a skin of aged silver floating logs.\">\n\n---\n\nPOSSE copies:\n\n<ul>\n<li style=\"margin-top: 0; margin-bottom: 0;\"><a class=\"u-syndication\" href=\"https://mstdn.social/@anniegreens/113114058315685659\" rel=\"syndication\">Shared on mstdn.social</a></li>\n</ul>\n",
 				"date_published": "2024-09-10T08:49:00-07:00",
 				"url": "https://micro.anniegreens.lol/2024/09/10/todays-featured-photo.html",
 				"tags": ["mstdn social","microblog","timeline","photo","featured photo"]
