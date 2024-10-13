@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://anniegreens.micro.blog/2024/10/11/today-is-a.html",
+				
+				"content_html": "<p>Today is a perfect example of my <a href=\"https://100daysof.blog/2024/10/09/early-morning.html\">early morning</a> jam. So far I&rsquo;ve washed dishes, put away dishes, made coffee, vacuumed the kitchen, pulled out ingredients and prepped for what I&rsquo;m cooking today, run one load of laundry and put in dryer, started a second load, and it isn&rsquo;t even 7am yet.</p>\n",
+				"content_text": "Today is a perfect example of my [early morning](https://100daysof.blog/2024/10/09/early-morning.html) jam. So far I've washed dishes, put away dishes, made coffee, vacuumed the kitchen, pulled out ingredients and prepped for what I'm cooking today, run one load of laundry and put in dryer, started a second load, and it isn't even 7am yet.\n",
+				"date_published": "2024-10-11T06:47:29-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/11/today-is-a.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/11/in-pennsylvania-the.html",
+				
+				"content_html": "<p>I&rsquo;ve been listening to an audio version of the recent immunity filing by Jack Smith for the January 6th federal case and came upon this alliteration that the narrator stumbled on:</p>\n<blockquote>\n<p>In Pennsylvania the defendant’s electoral nominees concerned about the propriety of the plan presented a problem.</p>\n</blockquote>\n<p>😆</p>\n",
+				"content_text": "I've been listening to an audio version of the recent immunity filing by Jack Smith for the January 6th federal case and came upon this alliteration that the narrator stumbled on:\n\n> In Pennsylvania the defendant’s electoral nominees concerned about the propriety of the plan presented a problem.\n\n😆\n",
+				"date_published": "2024-10-11T06:19:08-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/11/in-pennsylvania-the.html",
+				"tags": ["microblog","timeline","quote"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/10/little-bright-spot.html",
+				
+				"content_html": "<p>🔆 Little bright spot</p>\n<p>Going to bake a Blackberry Sour Cream Bundt today.</p>\n",
+				"content_text": "🔆 Little bright spot\r\n\r\nGoing to bake a Blackberry Sour Cream Bundt today.\n",
+				"date_published": "2024-10-10T09:34:10-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/10/little-bright-spot.html",
+				"tags": ["microblog","timeline","bright-spot"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/09/todays-featured-photo.html",
+				
+				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/10/09)</p>\n<p>Looking forward to these hillside views along Interstate 5 in SW Washington in about a month. Last year was the best year for color on the big leaf maples.</p>\n<p>November 8, 2023</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's featured photo from the Photos app (2024/10/09)\r\n\r\nLooking forward to these hillside views along Interstate 5 in SW Washington in about a month. Last year was the best year for color on the big leaf maples.\r\n\r\nNovember 8, 2023\r\n\r\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-5239.jpeg\" width=\"600\" height=\"800\" alt=\"View from inside a car, part of the windshield and dashboard on the right side visible, and outside a hillside with evergreen trees and golden colored big leaf maples under a cloudy sky.\">\r\n",
+				"date_published": "2024-10-09T10:29:05-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/09/todays-featured-photo.html",
+				"tags": ["microblog","timeline","photo","featured-photo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/09/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-10-09</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/10/weblogpomo-challenges\">WeblogPoMo Challenges</a>\n</link-peek>\n\n2024-10-09\n",
+				"date_published": "2024-10-09T10:10:33-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/09/from-apple-annies.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/07/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-10-07</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/10/online-is-absolutely-real-life\">Online is absolutely real life.</a>\n</link-peek>\n\n2024-10-07\n",
+				"date_published": "2024-10-07T23:14:26-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/07/from-apple-annies.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/07/been-in-this.html",
+				
+				"content_html": "<p>Been in this habit for about the past week where when the yawning commences, I decide to get ready for bed and go crawl under the covers upstairs. The yawning has commenced so I&rsquo;ll be packing up shop soon. I don&rsquo;t go to sleep right away, but I get to get comfy and I am all about that. Cozy time.</p>\n",
+				"content_text": "Been in this habit for about the past week where when the yawning commences, I decide to get ready for bed and go crawl under the covers upstairs. The yawning has commenced so I'll be packing up shop soon. I don't go to sleep right away, but I get to get comfy and I am all about that. Cozy time.\n",
+				"date_published": "2024-10-07T15:17:09-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/07/been-in-this.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
 				"id": "http://anniegreens.micro.blog/2024/10/07/finished-a-second.html",
 				
 				"content_html": "<p>Finished a second Agatha Christie miniseries today, <a href=\"https://en.wikipedia.org/wiki/Murder_Is_Easy_(TV_series)\"><em>Murder is Easy</em></a>. Quite a few of these have love stories that I wish we could see more of. This one, Mr Fitzwilliam and Ms Conway, would make a dynamic duo solving mysteries together, not to mention Mr Jonsson playing Fitzwilliam is adorable.</p>\n",
