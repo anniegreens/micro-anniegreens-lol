@@ -7,10 +7,99 @@
 	"items": [
 		
 			{
+				"id": "http://anniegreens.micro.blog/2024/11/03/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-11-03</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\r\n\r\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\r\n  <a href=\"https://weblog.anniegreens.lol/2024/11/ask-me-anything-2\">Ask Me Anything #2</a>\r\n</link-peek>\r\n\r\n2024-11-03\n",
+				"date_published": "2024-11-03T07:38:19-08:00",
+				"url": "https://micro.anniegreens.lol/2024/11/03/from-apple-annies.html"
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/11/02/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-11-02</p>\n<ul>\n<li><a href=\"https://micro.anniegreens.lol/categories/nablopomo/\">NaBloPoMo</a>: 2/30</li>\n<li>WeblogPoMoAMA: 1/5</li>\n</ul>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/11/ask-me-anything-1\">Ask Me Anything #1</a>\n</link-peek>\n\n2024-11-02\n\n- [NaBloPoMo](https://micro.anniegreens.lol/categories/nablopomo/): 2/30\n- WeblogPoMoAMA: 1/5\n",
+				"date_published": "2024-11-02T06:05:30-08:00",
+				"url": "https://micro.anniegreens.lol/2024/11/02/from-apple-annies.html",
+				"tags": ["microblog","timeline","NaBloPoMo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/11/01/technically-i-should.html",
+				
+				"content_html": "<p>Technically I should be putting up my Christmas tree this weekend. It&rsquo;s a trend: daylight saving time ends, the Christmas tree goes up to ward off the dark doom. I&rsquo;m not sure if I am prepared to do that yet this year. I might need to make it through this next week first.</p>\n",
+				"content_text": "Technically I should be putting up my Christmas tree this weekend. It's a trend: daylight saving time ends, the Christmas tree goes up to ward off the dark doom. I'm not sure if I am prepared to do that yet this year. I might need to make it through this next week first.\n",
+				"date_published": "2024-11-01T18:12:04-08:00",
+				"url": "https://micro.anniegreens.lol/2024/11/01/technically-i-should.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/11/01/i-have-massive.html",
+				
+				"content_html": "<p>I have massive reservations about creating any type of network on a corporate/VC funded social media platform. I don&rsquo;t want to go through that again, even if there are claims that some things are better. I don&rsquo;t see longevity in VC funded anything anymore. Haven&rsquo;t we witnessed this pattern enough?</p>\n",
+				"content_text": "I have massive reservations about creating any type of network on a corporate/VC funded social media platform. I don't want to go through that again, even if there are claims that some things are better. I don't see longevity in VC funded anything anymore. Haven't we witnessed this pattern enough?\n",
+				"date_published": "2024-11-01T09:28:13-08:00",
+				"url": "https://micro.anniegreens.lol/2024/11/01/i-have-massive.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/11/01/it-was-a.html",
+				
+				"content_html": "<p>It was a dark and stormy morning, I should have stayed in bed.</p>\n",
+				"content_text": "It was a dark and stormy morning, I should have stayed in bed.\n",
+				"date_published": "2024-11-01T05:59:03-08:00",
+				"url": "https://micro.anniegreens.lol/2024/11/01/it-was-a.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/11/01/from-apple-annies.html",
+				
+				"content_html": "<p>📝 From Apple Annie&rsquo;s Weblog</p>\n<!-- raw HTML omitted -->\n<p>2024-11-01</p>\n<p><a href=\"https://micro.anniegreens.lol/categories/nablopomo/\">NaBloPoMo</a>: 1/30</p>\n",
+				"content_text": "📝 From Apple Annie's Weblog\n\n<link-peek api=\"https://api.microlink.io/?url=${link}\">\n  <a href=\"https://weblog.anniegreens.lol/2024/11/the-process-has-purpose\">The process has purpose.</a>\n</link-peek>\n\n2024-11-01\n\n[NaBloPoMo](https://micro.anniegreens.lol/categories/nablopomo/): 1/30\n",
+				"date_published": "2024-11-01T05:07:21-08:00",
+				"url": "https://micro.anniegreens.lol/2024/11/01/from-apple-annies.html",
+				"tags": ["microblog","timeline","NaBloPoMo"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/31/garden-status.html",
+				"title": "🌱 Garden Status (2024/10/31)",
+				"content_html": "<p>Spooky edition 👻. The garden is finally starting to show signs of slowing down. Several hostas are completely yellowed or dying back while others are still going strong. I&rsquo;ve had a rhododendron annoyingly blooming for several weeks. It is very confused and this will no doubt have an impact on what blooms are left in the spring. Most perennials are done blooming, except the gaura, salvia, one geum, and one echinacea.</p>\n<p>These photos will mostly be from the back patio where many of the containers become the focus this time of year. They&rsquo;ve been planted with cool weather annuals coupled with purple bacopa from the summer. The bacopa is more jubilant than it has been all year and is such a soft purple, I&rsquo;m loving it with the autumn colors.</p>\n<p>Many of these photos may have made their way into <a href=\"https://weblogpomo.club/challenges/weblogphomo-october-2024\">WeblogPhoMo</a> or as a featured photo, but I have just uploaded the set to Flickr and that usually means a garden status post will soon follow. Most trees still have their leaves in my yard. The patio Japanese maples are just now turning color. The Bloodgoods on the street are barely even starting. I expect they will be prime in a week or two and won&rsquo;t shed their leaves until nearly December.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<hr>\n<p>POSSE copies:</p>\n<!-- raw HTML omitted -->",
+				"content_text": "Spooky edition 👻. The garden is finally starting to show signs of slowing down. Several hostas are completely yellowed or dying back while others are still going strong. I've had a rhododendron annoyingly blooming for several weeks. It is very confused and this will no doubt have an impact on what blooms are left in the spring. Most perennials are done blooming, except the gaura, salvia, one geum, and one echinacea.\n\n<!--more-->\n\nThese photos will mostly be from the back patio where many of the containers become the focus this time of year. They've been planted with cool weather annuals coupled with purple bacopa from the summer. The bacopa is more jubilant than it has been all year and is such a soft purple, I'm loving it with the autumn colors.\n\nMany of these photos may have made their way into [WeblogPhoMo](https://weblogpomo.club/challenges/weblogphomo-october-2024) or as a featured photo, but I have just uploaded the set to Flickr and that usually means a garden status post will soon follow. Most trees still have their leaves in my yard. The patio Japanese maples are just now turning color. The Bloodgoods on the street are barely even starting. I expect they will be prime in a week or two and won't shed their leaves until nearly December.\n\n<figure class=\"img-masthead\">\n  <img src=\"https://live.staticflickr.com/65535/54107911464_17fee6635e_c.jpg\" alt=\"A small potted Japanese maple on a patio with changing leaves from green to red and every color in between. A rock path disappears in the background.\" width=\"600\" height=\"800\">\n  <figcaption class=\"img-masthead__caption\">\n    <cite><small>A small potted Japanese maple on a patio with changing leaves from green to red and every color in between. A rock path disappears in the background. <b>Image source:</b> <a href=\"https://flic.kr/p/2qrkbZf\" rel=\"me\">@anniegreens</a> on Flickr.</small></cite>\n  </figcaption>\n</figure>\n\n<figure class=\"img-masthead\">\n  <img src=\"https://live.staticflickr.com/65535/54107911344_1b09b13802_c.jpg\" alt=\"Another view of a small potted Japanese maple on a patio with changing leaves from green to red and every color in between.\" width=\"800\" height=\"800\" loading=\"lazy\">\n  <figcaption class=\"img-masthead__caption\">\n    <cite><small>Another view of a small potted Japanese maple on a patio with changing leaves from green to red and every color in between. <b>Image source:</b> <a href=\"https://flic.kr/p/2qrkbXb\" rel=\"me\">@anniegreens</a> on Flickr.</small></cite>\n  </figcaption>\n</figure>\n\n<figure class=\"img-masthead\">\n  <img src=\"https://live.staticflickr.com/65535/54107830463_dac6c06683_c.jpg\" alt=\"A low round galvanized tub on a patio filled with cool season loving annuals like pansies, ornamental kale, and purple-blooming bacopa.\" width=\"800\" height=\"800\" loading=\"lazy\">\n  <figcaption class=\"img-masthead__caption\">\n    <cite><small>A low round galvanized tub on a patio filled with cool season loving annuals like pansies, ornamental kale, and purple-blooming bacopa. <b>Image source:</b> <a href=\"https://flic.kr/p/2qrjLUF\" rel=\"me\">@anniegreens</a> on Flickr.</small></cite>\n  </figcaption>\n</figure>\n\n<figure class=\"img-masthead\">\n  <img src=\"https://live.staticflickr.com/65535/54108024565_d04953b4fe_c.jpg\" alt=\"Close up of purple-blooming bacopa.\" width=\"800\" height=\"600\" loading=\"lazy\">\n  <figcaption class=\"img-masthead__caption\">\n    <cite><small>Close up of purple-blooming bacopa. <b>Image source:</b> <a href=\"https://flic.kr/p/2qrkLBg\" rel=\"me\">@anniegreens</a> on Flickr.</small></cite>\n  </figcaption>\n</figure>\n\n<figure class=\"img-masthead\">\n  <img src=\"https://live.staticflickr.com/65535/54106704522_c43af6df3d_c.jpg\" alt=\"A portrait orientated view of a backyard with a low galvanized tub in the lower front filled with cool season loving annuals, some potted Japanese maples with changing leaves, and a stone path up to a grass area surrounded by flower beds with shrubs and perennials.\" width=\"600\" height=\"800\" loading=\"lazy\">\n  <figcaption class=\"img-masthead__caption\">\n    <cite><small>A portrait orientated view of a backyard with a low galvanized tub in the lower front filled with cool season loving annuals, some potted Japanese maples with changing leaves, and a stone path up to a grass area surrounded by flower beds with shrubs and perennials. <b>Image source:</b> <a href=\"https://flic.kr/p/2qre1cU\" rel=\"me\">@anniegreens</a> on Flickr.</small></cite>\n  </figcaption>\n</figure>\n\n<figure class=\"img-masthead\">\n  <img src=\"https://live.staticflickr.com/65535/54107911419_86fd254003_c.jpg\" alt=\"A landscape orientated view of a backyard with a low galvanized tub in the lower front filled with cool season loving annuals, some potted Japanese maples with changing leaves, and a stone path up to a grass area surrounded by flower beds with shrubs and perennials.\" width=\"800\" height=\"600\" loading=\"lazy\">\n  <figcaption class=\"img-masthead__caption\">\n    <cite><small>A landscape orientated view of a backyard with a low galvanized tub in the lower front filled with cool season loving annuals, some potted Japanese maples with changing leaves, and a stone path up to a grass area surrounded by flower beds with shrubs and perennials. <b>Image source:</b> <a href=\"https://flic.kr/p/2qrkbYt\" rel=\"me\">@anniegreens</a> on Flickr.</small></cite>\n  </figcaption>\n</figure>\n\n---\n\nPOSSE copies:\n\n<ul>\n<li style=\"margin-top: 0; margin-bottom: 0;\"><a class=\"u-syndication\" href=\"https://mstdn.social/@anniegreens/113404511653093245\" rel=\"syndication\">Shared on mstdn.social</a></li>\n</ul>\n",
+				"date_published": "2024-10-31T15:54:00-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/31/garden-status.html",
+				"tags": ["mstdn-social","microblog","timeline","photo","series"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/31/new-weblogpomo-challenge.html",
+				
+				"content_html": "<p>New <a href=\"https://weblogpomo.club/challenges\">WeblogPoMo Challenge</a>: WeblogPoMo AMA</p>\n<p>Highlights:</p>\n<ul>\n<li>write a blog post, starting wth a question, then answer that question</li>\n<li>others should link to other blog post questions and answer themselves</li>\n<li>and separately post their own questions/answers that others will also answer &amp; link to</li>\n</ul>\n",
+				"content_text": "New [WeblogPoMo Challenge](https://weblogpomo.club/challenges): WeblogPoMo AMA\r\n\r\nHighlights:\r\n\r\n- write a blog post, starting wth a question, then answer that question\r\n- others should link to other blog post questions and answer themselves\r\n- and separately post their own questions/answers that others will also answer & link to\r\n",
+				"date_published": "2024-10-31T12:46:46-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/31/new-weblogpomo-challenge.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/31/plans-today-updated.html",
+				
+				"content_html": "<p>Plans today:</p>\n<ul>\n<li>Updated WeblogPoMo Challenges post</li>\n<li>shower</li>\n<li>wash bedding</li>\n<li>rest</li>\n</ul>\n<p>This is fallout from Monday and Tuesday finally catching up with me.</p>\n",
+				"content_text": "Plans today:\r\n\r\n- Updated WeblogPoMo Challenges post\r\n- shower\r\n- wash bedding\r\n- rest\r\n\r\nThis is fallout from Monday and Tuesday finally catching up with me.\n",
+				"date_published": "2024-10-31T09:45:48-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/31/plans-today-updated.html",
+				"tags": ["microblog","timeline"]
+			},
+			{
+				"id": "http://anniegreens.micro.blog/2024/10/30/little-bright-spot.html",
+				
+				"content_html": "<p>🔆 Little bright spot</p>\n<p>Another morning of apple crisp with my coffee.</p>\n",
+				"content_text": "🔆 Little bright spot\r\n\r\nAnother morning of apple crisp with my coffee.\n",
+				"date_published": "2024-10-30T08:13:15-07:00",
+				"url": "https://micro.anniegreens.lol/2024/10/30/little-bright-spot.html",
+				"tags": ["microblog","timeline","bright-spot"]
+			},
+			{
 				"id": "http://anniegreens.micro.blog/2024/10/28/todays-featured-photo.html",
 				
 				"content_html": "<p>Today&rsquo;s featured photo from the Photos app (2024/10/28)</p>\n<p>And we&rsquo;re back from the hiatus of featured photos with a fall view of my backyard.</p>\n<p>October 28, 2024</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's featured photo from the Photos app (2024/10/28)\r\n\r\nAnd we're back from the hiatus of featured photos with a fall view of my backyard.\r\n\r\nOctober 28, 2024\r\n\r\n<img class=\"img-flow\" src=\"https://micro.anniegreens.lol/uploads/2024/img-6462.jpeg\" width=\"600\" height=\"450\" alt=\"A low view from a patio towards an angled view of a backyard: patio containers of pansies and violas and a Japanese maple turning red, a basalt stepping stone path and stairs, and a raised garden with grass and beds of shrubs, perennials, and trees backed by wood fences.\">\r\n",
+				"content_text": "Today's featured photo from the Photos app (2024/10/28)\r\n\r\nAnd we're back from the hiatus of featured photos with a fall view of my backyard.\r\n\r\nOctober 28, 2024\r\n\r\n<img class=\"img-flow\" src=\"https://cdn.uploads.micro.blog/100386/2024/img-6462.jpeg\" width=\"600\" height=\"450\" alt=\"A low view from a patio towards an angled view of a backyard: patio containers of pansies and violas and a Japanese maple turning red, a basalt stepping stone path and stairs, and a raised garden with grass and beds of shrubs, perennials, and trees backed by wood fences.\">\r\n",
 				"date_published": "2024-10-28T15:24:16-07:00",
 				"url": "https://micro.anniegreens.lol/2024/10/28/todays-featured-photo.html",
 				"tags": ["microblog","timeline","photo","featured-photo"]
